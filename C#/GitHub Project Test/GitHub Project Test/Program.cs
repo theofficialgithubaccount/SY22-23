@@ -10,6 +10,12 @@ namespace GitHub_Project_Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GGGGGG    RRRR");
+            Console.WriteLine("G         R   R");
+            Console.WriteLine("G  GGG    RRRR");
+            Console.WriteLine("G    G    R   R");
+            Console.WriteLine("GGGGGG    R    R");
+            Console.ReadKey();
         }
     }
 }
