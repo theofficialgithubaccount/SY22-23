@@ -1,0 +1,8 @@
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.exe.config
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.exe
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\bin\Debug\MultipleChoice.pdb
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.AssemblyReference.cache
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.SuggestedBindingRedirects.cache
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.csproj.CoreCompileInputs.cache
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.exe
+C:\Users\gjrot139\Documents\SY22-23\C#\MultipleChoice\MultipleChoice\obj\Debug\MultipleChoice.pdb

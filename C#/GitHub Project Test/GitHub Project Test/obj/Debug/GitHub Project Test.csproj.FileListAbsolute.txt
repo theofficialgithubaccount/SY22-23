@@ -1,0 +1,8 @@
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\bin\Debug\GitHub Project Test.exe.config
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\bin\Debug\GitHub Project Test.exe
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\bin\Debug\GitHub Project Test.pdb
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\obj\Debug\GitHub Project Test.csproj.AssemblyReference.cache
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\obj\Debug\GitHub Project Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\obj\Debug\GitHub Project Test.csproj.CoreCompileInputs.cache
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\obj\Debug\GitHub Project Test.exe
+C:\Users\gjrot139\Documents\SY22-23\C#\GitHub Project Test\GitHub Project Test\obj\Debug\GitHub Project Test.pdb
