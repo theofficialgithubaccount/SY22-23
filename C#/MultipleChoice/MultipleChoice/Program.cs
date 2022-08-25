@@ -55,11 +55,11 @@ other answers are not accepted.");
             
             Console.WriteLine($"You got {correct} answers correct.");
             */
-            int correct = 0;
             //Console.WriteLine($"You got {correct} questions correct.");
+            int correct = 0;
             correct += ShowQuestion("What is the best flavor of ice cream?", "\n A) Vanilla", "\n B) Chocolate", "\n C) Cookie Dough", "\n D) Mint Chocolate Chip", "C");
             correct += ShowQuestion("What is the best class?", "\n A) Math", "\n B) Meth", "\n C) The Upper Middle Class", "\n D) Mandarin 5 - 6", "D");
-           correct += ShowQuestion("What is the best animal?", "\n A) Brown Recluse Spider", "\n B) Goblin Shark", "\n C) Dog", "\n D) Moth", "D");
+            correct += ShowQuestion("What is the best animal?", "\n A) Brown Recluse Spider", "\n B) Goblin Shark", "\n C) Dog", "\n D) Moth", "D");
             Console.WriteLine($"You got {correct} questions correct.");
             Console.ReadKey();
         }
