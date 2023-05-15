@@ -1,0 +1,11 @@
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\bin\Debug\neverminditsaformapp.exe.config
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\bin\Debug\neverminditsaformapp.exe
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\bin\Debug\neverminditsaformapp.pdb
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.csproj.AssemblyReference.cache
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.Form1.resources
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.Properties.Resources.resources
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.csproj.GenerateResource.cache
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.csproj.CoreCompileInputs.cache
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.exe
+C:\Users\gjrot139\source\repos\neverminditsaformapp\neverminditsaformapp\obj\Debug\neverminditsaformapp.pdb
